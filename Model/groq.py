@@ -2,7 +2,7 @@ import os
 from groq import Groq
 
 # --- Paste your Groq API Key here if not setting the GROQ_API_KEY environment variable ---
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "gsk_5QltGxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 # -----------------------------------------------------------------------------------------
 
 def ask_groq(prompt):
