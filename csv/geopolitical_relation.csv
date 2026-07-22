@@ -1,0 +1,46 @@
+Country,Relation with India,Relation with USA,Relation with Iran,Relation with China,Relation with Russia,Relation Score
+Russia,88,15,75,85,100,85
+Iraq,78,55,70,72,68,72
+Saudi Arabia,92,85,55,80,75,88
+UAE,95,88,60,82,78,91
+United States,85,100,10,20,15,82
+Kuwait,88,85,50,75,65,82
+Nigeria,82,70,45,78,60,78
+Angola,75,65,40,82,65,74
+Brazil,88,72,50,85,75,82
+Oman,92,82,75,72,65,86
+Venezuela,65,15,82,88,85,62
+Mexico,78,85,30,60,45,75
+Kazakhstan,80,60,65,85,88,78
+Malaysia,82,70,58,80,62,79
+Guyana,85,88,25,65,40,80
+Colombia,75,82,25,62,40,73
+Libya,60,45,50,65,60,58
+Algeria,72,50,68,80,82,70
+Gabon,72,62,35,75,55,70
+Eq. Guinea,70,55,35,78,55,68
+Congo,70,55,35,80,60,68
+Cameroon,72,60,35,78,55,70
+Ghana,82,78,35,75,50,78
+Egypt,88,75,50,82,78,83
+Azerbaijan,68,65,35,72,70,66
+Brunei,78,72,40,78,55,75
+Vietnam,88,75,55,65,82,83
+Australia,90,95,20,45,25,85
+New Zealand,85,90,25,50,25,80
+Qatar,82,78,68,75,65,78
+Canada,72,95,20,35,20,70
+Norway,85,92,25,45,20,80
+United Kingdom,88,95,20,40,20,82
+Iran,70,10,100,85,85,65
+Ecuador,72,75,30,68,45,70
+Argentina,82,80,30,72,50,78
+Chad,65,50,35,75,65,62
+South Sudan,68,45,35,80,60,64
+Niger,60,30,50,72,75,58
+Suriname,80,68,30,72,45,75
+Papua New Guinea,80,78,25,65,40,76
+Turkmenistan,72,45,65,80,80,70
+Trinidad & Tobago,82,78,30,65,45,78
+Ivory Coast,78,72,35,78,50,74
+Senegal,80,75,35,78,52,76

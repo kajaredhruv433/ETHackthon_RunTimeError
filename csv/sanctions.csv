@@ -1,0 +1,46 @@
+Country,Sanctioned,By Whom,Severity,Active
+Russia,Yes,"USA, EU, G7",Low,Yes
+Iraq,No,,,No
+Saudi Arabia,No,,,No
+UAE,No,,,No
+United States,Yes,,Low,Yes
+Kuwait,No,,,No
+Nigeria,No,,,No
+Angola,No,,,No
+Brazil,No,,,No
+Oman,No,,,No
+Venezuela,Yes,USA,High,Yes
+Mexico,No,,,No
+Kazakhstan,No,,,No
+Malaysia,No,,,No
+Guyana,No,,,No
+Colombia,No,,,No
+Libya,Yes,"UN, USA, EU",Medium,Yes
+Algeria,No,,,No
+Gabon,No,,,No
+Eq. Guinea,No,,,No
+Congo,No,,,No
+Cameroon,No,,,No
+Ghana,No,,,No
+Egypt,No,,,No
+Azerbaijan,No,,,No
+Brunei,No,,,No
+Vietnam,No,,,No
+Australia,Yes,,Low,Yes
+New Zealand,No,,,No
+Qatar,No,,,No
+Canada,No,,,No
+Norway,No,,,No
+United Kingdom,No,,,No
+Iran,Yes,"USA, EU",Low,Yes
+Ecuador,No,,,No
+Argentina,No,,,No
+Chad,No,,,No
+South Sudan,Yes,"UN, USA",Low,Yes
+Niger,Yes,"USA, EU",Medium,Yes
+Suriname,No,,,No
+Papua New Guinea,No,,,No
+Turkmenistan,No,,,No
+Trinidad & Tobago,No,,,No
+Ivory Coast,No,,,No
+Senegal,No,,,No

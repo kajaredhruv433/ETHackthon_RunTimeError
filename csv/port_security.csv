@@ -1,0 +1,31 @@
+Port,Country,Risk,Military Threat,Blocked,Sanctions
+Kharg Island Terminal,Iran,Low,Medium,No,Yes
+Al Basrah Oil Terminal,Iraq,Medium,Medium,No,No
+Novorossiysk,Russia,Low,Medium,Yes,Yes
+Primorsk,Russia,Low,Medium,Yes,Yes
+Ust-Luga,Russia,Low,Medium,Yes,Yes
+CPC Terminal (Novorossiysk),Russia,Low,Medium,Yes,Yes
+Es Sider,Libya,High,High,Partial,Partial
+Ras Lanuf,Libya,High,High,Partial,Partial
+Port Sudan,Sudan,High,High,Partial,Partial
+Bonny Offshore Terminal,Nigeria,Medium,Medium,No,No
+Forcados Terminal,Nigeria,Medium,Medium,No,No
+Jose Terminal,Venezuela,High,High,No,Yes
+Ras Tanura,Saudi Arabia,Low,Medium,Yes,No
+Yanbu,Saudi Arabia,Low,Medium,Yes,No
+Fujairah,UAE,Low,Low,No,No
+Jebel Ali,UAE,Low,Low,No,No
+Mina Al Ahmadi,Kuwait,Low,Low,No,No
+Mina Al Fahal,Oman,Low,Low,No,No
+Ceyhan,Turkey,Medium,Medium,No,No
+Corpus Christi,United States,Low,Low,No,Yes
+Houston,United States,Low,Low,No,Yes
+Louisiana Offshore Oil Port (LOOP),United States,Low,Low,No,Yes
+Santos,Brazil,Low,Low,No,No
+Angra dos Reis (Tebig),Brazil,Low,Low,No,No
+Vadinar / Jamnagar (Sikka),India,Low,Low,No,Yes
+Mundra,India,Low,Low,No,Yes
+Rotterdam,Netherlands,Low,Low,No,No
+Singapore,Singapore,Low,Low,No,No
+Ningbo-Zhoushan,China,Low,Low,No,No
+Qingdao,China,Low,Low,No,No

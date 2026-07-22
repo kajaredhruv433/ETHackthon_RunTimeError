@@ -1,0 +1,46 @@
+Country,War,Civil War,Internal Stability,Terror Risk
+Russia,Yes,No,High,Medium
+Iraq,Yes,No,High,High
+Saudi Arabia,No,No,High,Medium
+UAE,No,No,High,Low
+United States,No,No,High,Low
+Kuwait,No,No,High,Low
+Nigeria,No,No,High,High
+Angola,No,No,Medium,Low
+Brazil,No,No,High,Low
+Oman,No,No,Medium,Low
+Venezuela,No,No,Low,Medium
+Mexico,No,No,Low,Medium
+Kazakhstan,No,No,High,Low
+Malaysia,No,No,High,Low
+Guyana,No,No,Low,Low
+Colombia,No,No,Low,Medium
+Libya,No,Yes,Low,High
+Algeria,No,No,Medium,Medium
+Gabon,No,No,Low,Low
+Eq. Guinea,No,No,Medium,Low
+Congo,No,No,Medium,Low
+Cameroon,No,Yes,Low,High
+Ghana,No,No,High,Low
+Egypt,No,No,Medium,Medium
+Azerbaijan,No,No,High,Low
+Brunei,No,No,High,Low
+Vietnam,No,No,High,Low
+Australia,No,No,High,Low
+New Zealand,No,No,High,Low
+Qatar,No,No,Medium,Low
+Canada,No,No,High,Low
+Norway,No,No,Medium,Low
+United Kingdom,No,No,High,Low
+Iran,Yes,No,High,Medium
+Ecuador,No,No,Medium,Medium
+Argentina,No,No,High,Low
+Chad,No,No,Low,High
+South Sudan,No,Yes,Very Low,High
+Niger,No,No,Low,High
+Suriname,No,No,High,Low
+Papua New Guinea,No,No,Medium,Low
+Turkmenistan,No,No,High,Low
+Trinidad & Tobago,No,No,Medium,Low
+Ivory Coast,No,No,Medium,Low
+Senegal,No,No,High,Low

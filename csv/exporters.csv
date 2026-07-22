@@ -1,0 +1,46 @@
+Country,Export Capacity,Production,OPEC,OPEC+,Crude Grade,Current Export to India,Strategic Notes
+Russia,4.5 - 5.0 million bpd,9.5 million bpd,No,Yes,"Medium Sour (Urals, ESPO)",High (~1.5 - 2.0M bpd),#1 Exporter to India; heavy discounts on Urals & ESPO crude.
+Iraq,3.4 - 3.7 million bpd,4.3 million bpd,Yes,Yes,Heavy Sour / Medium Sour (Basra),High (~800k - 1.0M bpd),Core supplier of heavy sour crude for public PSU refiners.
+Saudi Arabia,6.5 - 7.5 million bpd,9.0 million bpd,Yes,Yes,Medium-Heavy Sour (Arab Light/Heavy),High (~500k - 700k bpd),Anchor baseline supplier under long-term contracts.
+UAE,2.7 - 3.2 million bpd,3.2 million bpd,Yes,Yes,"Light-Medium Sweet/Sour (Murban, Das)",High (~300k - 500k bpd),Strategic partner; offers non-Hormuz routing via Fujairah.
+United States,4.0 - 4.5 million bpd,13.2 million bpd,No,No,Light Sweet (WTI Midland),Medium (~200k - 300k bpd),Supplies Light Tight Oil to balance heavy Middle Eastern slates.
+Kuwait,1.7 - 2.0 million bpd,2.5 million bpd,Yes,Yes,Medium-Heavy Sour (Kuwait Export Blend),Medium (~150k - 250k bpd),Stable long-term state-to-state supplier of medium-heavy crude.
+Nigeria,1.2 - 1.5 million bpd,1.4 million bpd,Yes,Yes,"Light Sweet (Bonny Light, Forcados)",Medium (~100k - 200k bpd),Major supplier of light sweet crude ideal for petrol/diesel.
+Angola,1.1 - 1.2 million bpd,1.1 million bpd,No,No,"Medium Sweet/Heavy (Cabinda, Dalia)",Low-Medium (~50k - 100k bpd),Reliable source of medium-sweet heavy crude (exited OPEC in 2024).
+Brazil,1.8 - 2.2 million bpd,3.4 million bpd,No,Yes (Observer),"Medium Sweet (Lula, Buzios)",Low-Medium (~50k - 100k bpd),Key non-OPEC supplier of medium sweet crude.
+Oman,0.8 - 0.9 million bpd,1.0 million bpd,No,Yes,Medium Sour (Oman Blend),Low-Medium (~30k - 80k bpd),Critical location outside Strait of Hormuz on Arabian Sea.
+Venezuela,0.4 - 0.7 million bpd,0.8 million bpd,Yes,Yes,Extra Heavy Sour (Merey 16),Spot / Variable,Supplies heavy sour crude; trade depends on US sanction waivers.
+Mexico,0.9 - 1.1 million bpd,1.8 million bpd,No,Yes,"Heavy Sour (Maya, Isthmus)",Low-Medium (~30k - 60k bpd),Heavy crude supplier; helps diversify outside Middle East.
+Kazakhstan,1.3 - 1.5 million bpd,1.6 million bpd,No,Yes,"Light Sweet / Sour (CPC Blend, Tengiz)",Low-Medium (~30k - 60k bpd),Supplies CPC Blend via pipeline to Black Sea.
+Malaysia,0.2 - 0.3 million bpd,0.5 million bpd,No,Yes,"Light Sweet (Kimanis, Tapis)",Spot / Low,Supplies premium light sweet crude; short transit via Indian Ocean.
+Guyana,0.5 - 0.6 million bpd,0.6 million bpd,No,No,Medium Sweet (Liza Blend),Spot / Low,Rapidly growing offshore sweet crude exporter.
+Colombia,0.4 - 0.5 million bpd,0.7 million bpd,No,No,"Heavy Sweet (Vasconia, Castilla)",Spot / Low,Opportunistic spot market supplier of heavy sweet crude.
+Libya,0.9 - 1.1 million bpd,1.2 million bpd,Yes,Yes,"Light Sweet (Es Sider, Sharara)",Spot / Low,"High-quality light sweet crude, prone to political supply outages."
+Algeria,0.4 - 0.5 million bpd,1.0 million bpd,Yes,Yes,Ultra Light Sweet (Sahara Blend),Spot / Low,Supplies ultra-light sweet crude with low sulfur content.
+Gabon,0.1 - 0.2 million bpd,0.2 million bpd,Yes,Yes,Medium Sweet (Rabi Light),Spot / Low,Spot exporter of sweet/medium crude.
+Eq. Guinea,0.05 - 0.1 million bpd,0.1 million bpd,Yes,Yes,Light Sweet (Zafiro),Spot / Low,Spot exporter of sweet crude.
+Congo,0.2 - 0.25 million bpd,0.25 million bpd,Yes,Yes,Medium-Heavy (Djeno),Spot / Low,Spot exporter of medium-heavy crude.
+Cameroon,0.03 - 0.05 million bpd,0.06 million bpd,No,No,Medium Sweet (Kole),Spot / Low,Small-volume spot exporter.
+Ghana,0.1 - 0.15 million bpd,0.18 million bpd,No,No,"Light Sweet (Jubilee, TEN)",Spot / Low,Supplies high-quality sweet crude.
+Egypt,0.05 - 0.1 million bpd,0.55 million bpd,No,No,Medium Sour (Suez Blend),Spot / Low,Small-volume regional exporter.
+Azerbaijan,0.5 - 0.6 million bpd,0.65 million bpd,No,Yes,Light Sweet (Azeri Light),Spot / Low,Supplies Azeri Light via Turkey's Ceyhan port.
+Brunei,0.05 - 0.08 million bpd,0.09 million bpd,No,No,Light Sweet (Champion),Spot / Low,Small-volume light sweet crude supplier.
+Vietnam,0.05 - 0.1 million bpd,0.18 million bpd,No,No,Light Sweet (Bach Ho),Spot / Low,Supplies light sweet crude.
+Australia,0.2 - 0.3 million bpd,0.4 million bpd,No,No,Ultra Light / Condensate (NW Shelf),Spot / Low,Supplies light condensate and sweet crude.
+New Zealand,0.01 - 0.02 million bpd,0.02 million bpd,No,No,Light Sweet (Taranaki),Spot / Low,Spot supplier of premium low-sulfur sweet crude.
+Qatar,0.5 - 0.6 million bpd,1.3 million bpd,No,No,Light Sour / Condensate (Deering),Low (Primarily LNG),Exports minor crude/condensate volumes; major LNG partner.
+Canada,3.5 - 3.8 million bpd,4.8 million bpd,No,No,"Heavy Sour / Light Sweet (WCS, Synthetic)",Backup / Emerging,Trans Mountain expansion enables Pacific routes to India.
+Norway,1.4 - 1.6 million bpd,1.8 million bpd,No,No,"Medium-Light Sweet (Johan Sverdrup, Brent)",Backup / Low,Major non-OPEC exporter; extremely reliable spot source.
+United Kingdom,0.5 - 0.6 million bpd,0.7 million bpd,No,No,"Light Sweet (Forties, Brent)",Backup / Spot,North Sea Brent blend; easily accessible via spot market.
+Iran,1.2 - 1.5 million bpd,3.2 million bpd,Yes,Yes,Medium Heavy Sour (Iranian Heavy),Backup / Sanctioned,Restricted by US sanctions; emergency backup via Rupee-Rial.
+Ecuador,0.3 - 0.4 million bpd,0.48 million bpd,No,No,"Heavy Sour (Napo, Oriente)",Backup / Spot,Exports heavy crude via Pacific ports.
+Argentina,0.1 - 0.2 million bpd,0.65 million bpd,No,No,Light Sweet (Medanito),Backup / Emerging,Boom in Vaca Muerta shale provides light sweet crude.
+Chad,0.06 - 0.08 million bpd,0.08 million bpd,No,No,Heavy Sweet (Doba),Backup / Low,Heavy sweet crude exported via Chad-Cameroon pipeline.
+South Sudan,0.1 - 0.13 million bpd,0.14 million bpd,No,Yes,Heavy Sweet (Dar Blend),Backup / Low,Produces Dar Blend; piped to Red Sea ports.
+Niger,0.08 - 0.1 million bpd,0.11 million bpd,No,No,Medium Sweet,Backup / Emerging,New pipeline to Benin opens up ~100k bpd export capacity.
+Suriname,Under Development,0.03 million bpd,No,No,Medium-Light Sweet,Backup / Emerging,Emerging offshore producer with sweet reserves.
+Papua New Guinea,0.03 - 0.05 million bpd,0.05 million bpd,No,No,Ultra Light / Condensate (Kutubu),Backup / Spot,High-quality light sweet condensate with direct Ocean route.
+Turkmenistan,0.05 - 0.08 million bpd,0.18 million bpd,No,No,Medium Sweet (Cheleken),Backup / Spot,Cheleken crude exported across Caspian Sea via swap deals.
+Trinidad & Tobago,0.02 - 0.04 million bpd,0.06 million bpd,No,No,Light Sweet,Backup / Spot,Spot producer of light sweet crude in Atlantic markets.
+Ivory Coast,0.03 - 0.06 million bpd,0.07 million bpd,No,No,Medium Sweet (Baleine),Backup / Emerging,Expanding deepwater production.
+Senegal,0.08 - 0.1 million bpd,0.1 million bpd,No,No,Medium Sweet (Sangomar),Backup / Emerging,Deepwater exporter offering light-medium crude.
