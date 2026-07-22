@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7efd345a-987f-4468-9e63-5fc1a3d8b6a5" name="Changes" comment="" />
+    <list default="true" id="7efd345a-987f-4468-9e63-5fc1a3d8b6a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/embedding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/embedding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/qwen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/qwen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/summarizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/summarizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classified_news.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv/chokepoint_dependency.csv" beforeDir="false" afterPath="$PROJECT_DIR$/csv/chokepoint_dependency.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv/conflict_status.csv" beforeDir="false" afterPath="$PROJECT_DIR$/csv/conflict_status.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv/diplomatic_risk.csv" beforeDir="false" afterPath="$PROJECT_DIR$/csv/diplomatic_risk.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv/geopolitical_events.csv" beforeDir="false" afterPath="$PROJECT_DIR$/csv/geopolitical_events.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv/port_security.csv" beforeDir="false" afterPath="$PROJECT_DIR$/csv/port_security.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv/supplier_preference.csv" beforeDir="false" afterPath="$PROJECT_DIR$/csv/supplier_preference.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/final_supplier_ranking.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/final_supplier_ranking.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_news.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume_update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarized_news.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unique_news.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +38,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kajaredhruv433&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kajaredhruv433/ETHackthon_RunTimeError.git&quot;,
+    &quot;accountId&quot;: &quot;02ec10d3-a3e5-46fb-b5f5-e2223ef1dbb5&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -54,6 +84,7 @@
     "Python.try2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>

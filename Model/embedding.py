@@ -3,7 +3,7 @@ import requests
 # -----------------------------
 # CHANGE THIS
 # -----------------------------
-API_URL = "https://advisors-robinson-equipped-massachusetts.trycloudflare.com/chat"
+API_URL = "https://juice-annotation-early-mounts.trycloudflare.com/chat"
 
 TIMEOUT = 180
 

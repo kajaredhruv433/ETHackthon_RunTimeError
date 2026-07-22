@@ -3,7 +3,7 @@ import requests
 # -----------------------------
 # CHANGE THIS
 # -----------------------------
-API_URL = "https://telephone-surge-boundaries-oscar.trycloudflare.com/chat"
+API_URL = "https://essential-shoe-laughing-recorded.trycloudflare.com/chat"
 
 TIMEOUT = 180
 
@@ -53,4 +53,4 @@ def classify(text):
 
     except Exception as e:
 
-        return f"Error: {e}"
+        return f"Error: {e}"

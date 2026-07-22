@@ -3,7 +3,7 @@ import requests
 # -----------------------------
 # CHANGE THIS
 # -----------------------------
-API_URL = "https://commissions-mining-homework-andale.trycloudflare.com/chat"
+API_URL = "https://healthcare-bailey-mailto-mechanism.trycloudflare.com/chat"
 
 TIMEOUT = 180
 
